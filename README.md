@@ -41,8 +41,8 @@ Este proyecto realiza un análisis completo de los siniestros viales ocurridos e
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tu_usuario/proyecto-siniestros-viales.git
-cd proyecto-siniestros-viales
+git clone https://github.com/hectoroleon/Accidentes_GDL_Zapopan.git
+cd Accidentes_GDL_Zapopan
 ```
 
 2. Crea un ambiente virtual y actívalo:
