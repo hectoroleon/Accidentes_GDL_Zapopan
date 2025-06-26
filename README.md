@@ -83,7 +83,7 @@ Los datos utilizados fueron obtenidos del portal **Siniestralimap**, del Institu
 
 ## Créditos
 
-Proyecto desarrollado por [Tu Nombre], abril 2025.  
+Proyecto desarrollado por Héctor Ornelas, abril 2025.  
 Este análisis forma parte de una propuesta para mejorar la seguridad vial mediante el uso de datos abiertos y técnicas de ciencia de datos.
 
 ---
